@@ -1,5 +1,5 @@
 ---
 layout: page
-title: earth in bits
+title: pixeling around
 image: '/images/pages/eib_logo.png'
 ---
