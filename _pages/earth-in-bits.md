@@ -1,5 +1,5 @@
 ---
 layout: page
 title: pixeling around
-image: '/images/pages/ISABELA PI-04.png'
+image: '/images/pages/eib_logo.png'
 ---
