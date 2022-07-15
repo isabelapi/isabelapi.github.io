@@ -5,8 +5,6 @@ tags: [frontpage, jekyll, blog]
 image: '/images/posts/eib_logo.png'
 ---
 
-# Welcome
-
 **Hello world**, once upon a time, there was water and earth. 
 From there, the fire that created space burst from the center of the planet. 
 
