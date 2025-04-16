@@ -1,8 +1,10 @@
 ---
 layout: page
-title: be a volunteer
+title: earth in bits
 image: '/images/pages/hot_logo.png'
 ---
+
+be a volunteer
 
 Support humanitarian mapping by donating your time and skills for data used by humanitarian projects by NGOs.
 
